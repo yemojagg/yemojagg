@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yemojagg
+- 👋 Hej, I’m @yemojagg
 - 👀 I’m interested in combining Extended Reality (XR) with healthcare education, more specifically, leveraging virtual agent Avatars to promote more cultural care among African, Black or Caribbean Diaspora  ..
 - 🌱 I’m currently learning how to create a educational escape rooms for assessing health professional students clinnical judgement, soft skills, and critical thinking and motivation level for health prommotion and disease prevention
 - - 💞️ I’m looking to collaborate on project realted to planetary health and healthcare professional workforce training
